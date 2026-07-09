@@ -1,0 +1,115 @@
+@media (min-width:640px){
+
+    .hero{
+
+        padding:80px 30px 50px;
+
+    }
+
+    .gallery{
+
+        grid-template-columns:repeat(2,1fr);
+
+    }
+
+}
+
+@media (min-width:900px){
+
+    main{
+
+        padding:0 30px;
+
+    }
+
+    .gallery{
+
+        grid-template-columns:repeat(3,1fr);
+
+        gap:28px;
+
+    }
+
+    .profile-image{
+
+        width:160px;
+
+        height:160px;
+
+    }
+
+    .profile h1{
+
+        font-size:3.5rem;
+
+    }
+
+    .description{
+
+        max-width:650px;
+
+    }
+
+    .modal-content{
+
+        display:grid;
+
+        grid-template-columns:1.1fr .9fr;
+
+        max-height:85vh;
+
+    }
+
+    #modalImage{
+
+        height:100%;
+
+        max-height:none;
+
+    }
+
+    .modal-info{
+
+        overflow-y:auto;
+
+    }
+
+}
+
+@media (min-width:1200px){
+
+    .gallery{
+
+        grid-template-columns:repeat(4,1fr);
+
+        gap:30px;
+
+    }
+
+}
+
+@media (hover:none){
+
+    .art-card::before{
+
+        opacity:1;
+
+        transform:scale(1);
+
+    }
+
+}
+
+@media (prefers-reduced-motion:reduce){
+
+    *{
+
+        animation:none !important;
+
+        transition:none !important;
+
+        scroll-behavior:auto !important;
+
+    }
+
+}

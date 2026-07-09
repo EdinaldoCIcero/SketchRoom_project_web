@@ -1,0 +1,290 @@
+/* ==========================================================
+   RESET
+========================================================== */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+img{
+    display:block;
+    max-width:100%;
+}
+
+button{
+    border:none;
+    background:none;
+    cursor:pointer;
+    font-family:inherit;
+}
+
+a{
+    color:inherit;
+    text-decoration:none;
+}
+
+ul{
+    list-style:none;
+}
+
+
+/* ==========================================================
+   ROOT
+========================================================== */
+
+:root{
+
+    --bg:#131313;
+    --surface:#2e2419af;
+
+    --text:#e9913f;
+    --text-light:#e2e2e2;
+
+    --accent:#111111;
+
+    --radius:18px;
+
+    --shadow:
+        0 10px 25px rgba(0,0,0,.08);
+
+    --transition:.30s ease;
+
+}
+
+
+/* ==========================================================
+   BODY
+========================================================== */
+
+body{
+
+    font-family:'Poppins',sans-serif;
+
+    background:var(--bg);
+
+    color:var(--text);
+
+    min-height:100vh;
+
+    line-height:1.6;
+
+}
+body{
+   font-family:'Poppins',sans-serif;
+
+    background-image:url("../assets/img/backs/background_2.jpg");
+
+    background-position:center;
+
+    background-repeat:no-repeat;
+
+    background-size:cover;
+
+    background-attachment:fixed;
+
+    color:var(--text);
+
+    min-height:100vh;
+
+    line-height:1.6;
+
+}
+
+body::before{
+
+    content:"";
+
+    position:fixed;
+
+    inset:0;
+
+    background:rgba(19, 19, 19, 0.82);
+
+    /*backdrop-filter:blur(2px); */
+
+    z-index:-1;
+
+}
+
+
+
+/* ==========================================================
+   CONTAINER
+========================================================== */
+
+main{
+
+    width:min(100%,1200px);
+
+    margin:auto;
+
+    padding:0 20px;
+
+}
+
+
+/* ==========================================================
+   HERO
+========================================================== */
+
+.hero{
+
+    padding:60px 20px 40px;
+
+}
+
+
+.profile{
+
+    display:flex;
+
+    flex-direction:column;
+
+    align-items:center;
+
+    text-align:center;
+
+}
+
+
+.profile-image{
+
+    width:130px;
+
+    height:130px;
+
+    border-radius:50%;
+
+    object-fit:cover;
+
+    background:#ddd;
+
+    margin-bottom:20px;
+
+    box-shadow:var(--shadow);
+
+}
+
+
+.profile h1{
+
+    font-family:"Cormorant Garamond",serif;
+
+    font-size:2.5rem;
+
+    font-weight:700;
+
+    margin-bottom:8px;
+
+}
+
+
+.subtitle{
+
+    color:var(--text-light);
+
+    font-size:.95rem;
+
+    margin-bottom:18px;
+
+}
+
+
+.description{
+
+    color:var(--text-light);
+
+    max-width:340px;
+
+    font-size:.95rem;
+
+}
+
+
+/* ==========================================================
+   GALLERY TITLE
+========================================================== */
+
+.gallery-section{
+
+    margin-top:20px;
+
+}
+
+
+.gallery-section h2{
+
+    font-family:"Cormorant Garamond",serif;
+
+    font-size:2rem;
+
+    margin-bottom:24px;
+
+}
+
+
+/* ==========================================================
+   FOOTER
+========================================================== */
+
+footer{
+
+    padding:50px 20px;
+
+    text-align:center;
+
+    color:var(--text-light);
+
+    font-size:.9rem;
+
+}
+
+
+/* ==========================================================
+   SCROLLBAR
+========================================================== */
+
+::-webkit-scrollbar{
+
+    width:8px;
+
+}
+
+::-webkit-scrollbar-track{
+
+    background:transparent;
+
+}
+
+::-webkit-scrollbar-thumb{
+
+    background:#c8c8c8;
+
+    border-radius:20px;
+
+}
+
+::-webkit-scrollbar-thumb:hover{
+
+    background:#9d9d9d;
+
+}
+
+
+/* ==========================================================
+   SELECTION
+========================================================== */
+
+::selection{
+
+    background:#222;
+
+    color:white;
+
+}

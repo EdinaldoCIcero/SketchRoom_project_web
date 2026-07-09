@@ -1,0 +1,94 @@
+[
+    {
+        "title": "Mosquito Inimigo",
+        "description": "Inimigo fictício para um jogo de ação e aventura. Um mosquito gigante que atacaria o jogador soltando um espinho pelo bico.",
+        "date": "Maio de 2022",
+        "software": "Tradicional: Lápis, Borracha e Caneta Preta 007",
+        "tags": [
+            "Fictício",
+            "Jogo",
+            "Inimigo",
+            "Concept Art"
+        ],
+        "image": "assets/img/draw_1.jpg"
+    },
+    {
+        "title": "Tanjiro Kamado",
+        "description": "Tentativa de desenhar o personagem Tanjiro Kamado do anime Demon Slayer.",
+        "date": "Não definida",
+        "software": "Tradicional: Lápis, Borracha e Caneta Preta 007",
+        "tags": [
+            "Anime",
+            "Personagem",
+            "Fanart",
+            "Demon Slayer"
+        ],
+        "image": "assets/img/draw_2.jpg"
+    },
+    {
+        "title": "Moça dos Cabelos Longos",
+        "description": "Moça dos cabelos longos, arte feita a lápis, borracha e caneta preta 007. A ideia era fazer um desenho simples, mas com bastante atenção aos detalhes do cabelo e da expressão da personagem.",
+        "date": "Dezembro de 2023",
+        "software": "Tradicional: Lápis, Borracha e Caneta Preta 007",
+        "tags": [
+            "Personagem",
+            "Feminina"
+        ],
+        "image": "assets/img/draw_3.jpg"
+    },
+    {
+        "title": "Saci das Trevas",
+        "description": "Concept art inspirada no folclore brasileiro. Um Saci sombrio criado para um jogo de terror.",
+        "date": "Dezembro de 2023",
+        "software": "Tradicional: Lápis, Borracha e Caneta Preta 007",
+        "tags": [
+            "Folclore",
+            "Concept Art",
+            "Terror",
+            "Personagem"
+        ],
+        "image": "assets/img/draw_4.jpg"
+    },
+    {
+        "title": "Ben 10: Quatro Braços",
+        "description": "Fanart do alien Quatro Braços, da série Ben 10. A ideia era desenhar todos os aliens da franquia.",
+        "date": "Janeiro de 2024",
+        "software": "Tradicional: Lápis, Borracha e Caneta Preta 007",
+        "tags": [
+            "Ben 10",
+            "Fanart",
+            "Desenho Animado"
+        ],
+        "image": "assets/img/draw_5.jpg"
+    }
+    ,
+
+    {
+        "title": "Henormosauro",
+        "description": "Fan arte do Alien do Ben 10 Força Alienígena, o Henormosauro. A ideia era desenhar todos os aliens da franquia.",
+        "date": "Março de 2024",
+        "software": "Tradicional: Lápis, Borracha e Caneta Preta 007",
+        "tags": [
+            "Personagem",
+            "Desenho Animado",
+            "Fanart"
+        ],
+        "image": "assets/img/draw_6.jpg"
+    }
+    ,
+
+    {
+        "title": "Carritos",
+        "description": "Concept Art feita para um evento, onde o objetivo era criar um personagem de desenho animado. A ideia era criar um personagem para um jogo 2D, que serviria como uma nova skin para a personagem principal do jogo.",
+        "date": "Junho de 2026",
+        "software": "Tradicional: Lápis, Borracha e Caneta Preta 007",
+        "tags": [
+            "Concept Art",
+            "Personagem",
+            "Jogo 2D",
+            "Jogo digital"
+        ],
+        "image": "assets/img/draw_7.jpg"
+    }
+    
+]
