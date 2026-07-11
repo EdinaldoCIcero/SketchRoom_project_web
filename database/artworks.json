@@ -90,5 +90,146 @@
         ],
         "image": "assets/img/draw_7.jpg"
     }
+
+
+    ,
+
+    {
+        "title": "Passaro",
+        "description": "..",
+        "date": "...",
+        "software": "Tradicional: Lápis, Borracha e Caneta Preta 007",
+        "tags": [
+            "Animal",
+            "passaro"
+        ],
+        "image": "assets/img/draw_8.jpg"
+    }
+
+    ,
+    {
+        "title": "BATMA",
+        "description": "..",
+        "date": "...",
+        "software": "Tradicional: Lápis, Borracha e Caneta Preta 007",
+        "tags": [
+            "Animal",
+            "passaro"
+        ],
+        "image": "assets/img/draw_9.jpg"
+    }
+
+        ,
+    {
+        "title": "BATMA",
+        "description": "..",
+        "date": "...",
+        "software": "Tradicional: Lápis, Borracha e Caneta Preta 007",
+        "tags": [
+            "Animal",
+            "passaro"
+        ],
+        "image": "assets/img/draw_9.jpg"
+    }
+
+
+            ,
+    {
+        "title": "AKAZA vs RENGOKU",
+        "description": "..",
+        "date": "...",
+        "software": "Tradicional: Lápis, Borracha e Caneta Preta 007",
+        "tags": [
+            "Anime",
+            "personagem"
+        ],
+        "image": "assets/img/draw_10.jpg"
+
+    }
+
+
+     ,
+    {
+        "title": "GOJO vs SUKUNA",
+        "description": "..",
+        "date": "...",
+        "software": "Tradicional: Lápis, Borracha e Caneta Preta 007",
+        "tags": [
+            "Anime",
+            "personagems"
+        ],
+        "image": "assets/img/draw_11.jpg"
+
+    }
+
+    ,
+    {
+        "title": "Angel",
+        "description": "Minha personagem propria, foi crianda pra uma ideia de Manga proprio, mais não foi continuado.",
+        "date": "...",
+        "software": "Tradicional: Lápis, Borracha e Caneta Preta 007",
+        "tags": [
+            "Anime",
+            "personagems",
+            "Autoral"
+        ],
+
+        "image": "assets/img/draw_12.jpg"
+
+    }
+
+    ,
+    {
+        "title": "Angeline",
+        "description": "Minha personagem propria, foi crianda pra uma ideia de Manga proprio, mais não foi continuado.",
+        "date": "...",
+        "software": "Tradicional: Lápis, Borracha e Caneta Preta 007",
+        "tags": [
+            "Anime",
+            "personagems",
+            "Autoral"
+        ],
+        
+        "image": "assets/img/draw_13.jpg"
+
+    }
+
+
+
+    ,
+    {
+        "title": "Capitão Levi",
+        "description": "..",
+        "date": "...",
+        "software": "Tradicional: Lápis, Borracha e Caneta Preta 007",
+        "tags": [
+            "Anime",
+            "personagems",
+        ],
+        
+        "image": "assets/img/draw_14.jpg"
+
+    }
+
+    ,
+    {
+        "title": "Capitão Levi",
+        "description": "..",
+        "date": "...",
+        "software": "Tradicional: Lápis, Borracha e Caneta Preta 007",
+        "tags": [
+            "Anime",
+            "personagems",
+        ],
+        
+        "image": "assets/img/draw_14.jpg"
+
+    }
+
+
+
+
+
+
     
 ]
